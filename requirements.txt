@@ -1,5 +1,5 @@
 PyYAML==5.1
-numpy==1.16.1
+numpy==1.22.0
 pandas==0.23.4
 tensorflow==2.0.0rc0
 openslide-python==1.1.1
